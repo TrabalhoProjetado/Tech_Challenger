@@ -29,7 +29,7 @@ st.title('Modelo de Produção de Preços do Petróleo Brent')
 
 # Criar os botões e links
 botoes = ["Ir para o Modelo ML", "Ir para o Dashboard", "Ir para o Github"]
-links = ["https://colab.research.google.com/drive/19UHI53aHKVm-Nv-6n5n-nyyVNdvsU6l9?usp=sharing#scrollTo=FYS1NRzdI3-K"," ", "https://github.com/TrabalhoProjetado/Tech_Challenger"] #ADICIONAR POWER BI
+links = ["https://colab.research.google.com/drive/19UHI53aHKVm-Nv-6n5n-nyyVNdvsU6l9?usp=sharing#scrollTo=FYS1NRzdI3-K","https://app.powerbi.com/view?r=eyJrIjoiNTVhNzIyODgtNjRkNy00NDIxLWFlZWQtZWY0YWRlNmY1NjU1IiwidCI6IjdmZTFiYmJjLWIwMmUtNDFmMS04N2YyLTNhNWIzMTY1NzM0ZiJ9 ", "https://github.com/TrabalhoProjetado/Tech_Challenger"] #ADICIONAR POWER BI
 
 st.markdown(
     """
